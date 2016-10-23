@@ -1,12 +1,12 @@
 
-> simple project to bootstrap python, javascript and php tests for the Global Day Of Code Retreat
+> simple project to bootstrap `Python`, `JavaScript` and `PHP` tests for the Global Day Of Code Retreat.
 
 ## Requirements
 
- - Mac or Unix OS
- - python3 for python
- - node 4+ for javascript
- - php5.6 for php
+ - Mac or Unix OS ;
+ - `python3` for python ;
+ - node `4+` for javascript ;
+ - php `5.6` for PHP.
 
 ## Python
 
@@ -20,7 +20,7 @@ run tests
     ./test.sh
 
 
-## Javascript
+## Javascript (with [`yarn`](https://yarnpkg.com/) package manager)
 
 bootstrap
 
@@ -29,7 +29,7 @@ bootstrap
 
 run tests
 
-    npm test
+    yarn test
 
 or
 
